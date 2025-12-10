@@ -1,0 +1,184 @@
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ProductUserControl.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Form3.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.PayUserControl.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.BanHang.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TSKT.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TaiKhoan.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ThanhToan.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Customer.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Employee.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Form1.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmHomePage.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmLogin.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertCustomer.resources
+C:\Users\ThinkPad\Desktop\Test\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertEmployee.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.BanHang.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Customer.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Employee.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Form1.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmHomePage.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmLogin.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertCustomer.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertEmployee.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TSKT.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Form3.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TaiKhoan.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ThanhToan.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ProductUserControl.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Properties.Resources.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.PayUserControl.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.GenerateResource.cache
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.CapNhanSanPham.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.SanPham.resources
+C:\Users\baoch\Downloads\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Them_SanPham.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.BanHang.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.CapNhanSanPham.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Customer.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Employee.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Form1.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmHomePage.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmLogin.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertCustomer.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertEmployee.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.SanPham.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Them_SanPham.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TSKT.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Form3.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TaiKhoan.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ThanhToan.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ProductUserControl.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Properties.Resources.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.PayUserControl.resources
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Image\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.BanHang.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.CapNhanSanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Customer.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Employee.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Form1.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmHomePage.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmLogin.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertCustomer.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertEmployee.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.SanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Them_SanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TSKT.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Form3.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TaiKhoan.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ThanhToan.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ProductUserControl.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Properties.Resources.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.PayUserControl.resources
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\ThinkPad\Downloads\DoAnCK _Main\DoAnCK (1)\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.BanHang.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.CapNhanSanPham.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Customer.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Employee.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Form1.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmHomePage.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmLogin.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertCustomer.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertEmployee.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.SanPham.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Them_SanPham.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TSKT.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Form3.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TaiKhoan.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ThanhToan.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ProductUserControl.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Properties.Resources.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.PayUserControl.resources
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.GenerateResource.cache
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Bill.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.BanHang.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Bill.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.CapNhanSanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Customer.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Employee.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Form1.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmHomePage.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmLogin.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertCustomer.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertEmployee.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.SanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Them_SanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TSKT.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Form3.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TaiKhoan.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ThanhToan.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ProductUserControl.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Properties.Resources.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.PayUserControl.resources
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Downloads\DoAnCK (2)\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
+C:\Users\baoch\Downloads\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Insert_TSKT.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe.config
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\bin\Debug\DoAnCK.pdb
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.BanHang.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Bill.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.CapNhanSanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Customer.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Employee.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.Form1.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmHomePage.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.frmLogin.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertCustomer.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\QuanLy_Winform_C_.InsertEmployee.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Insert_TSKT.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.SanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Them_SanPham.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TSKT.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Form3.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.TaiKhoan.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ThanhToan.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.ProductUserControl.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.Properties.Resources.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.PayUserControl.resources
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.exe
+C:\Users\ThinkPad\Downloads\DoAnCK_Main\DoAnCK\DoAnCK\DoAnCK\obj\Debug\DoAnCK.pdb
